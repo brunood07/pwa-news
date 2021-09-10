@@ -10,3 +10,5 @@ Projeto Realizado para o Bootcamp LocalizaLabs pela Digital Innovation One
 - antd
 - propTypes
 - React Router Dom
+
+# Deployed em: https://pwa-news.vercel.app/
